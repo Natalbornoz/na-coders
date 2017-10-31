@@ -1,0 +1,96 @@
+.body {
+  right:600px ;
+  width: 800px;
+
+}
+hr {
+	border: 3px solid #FF5722;
+  width: 10px;
+  margin: inherit;
+  margin-bottom: 12px;
+}
+.bg {
+  /*background-image: url("bg.png");*/
+  margin: auto;
+  height: 600px;
+  width: 700px;
+  margin:0;
+}
+h1 {
+  font-style: oblique;
+  font-weight: bold;
+  color: #FF5722;
+  font-size: 30px;
+  font-family: 'Capriola', sans-serif;
+  margin-bottom: 6px;
+  letter-spacing: 3px;
+}
+
+.nom {
+  font-style: oblique;
+  font-weight: bold;
+  color: #FF5722;
+  font-family: 'Capriola', sans-serif;
+  padding-top: 4px;
+  padding-left: 68px;
+  background: white;
+  position: relative;
+  bottom: -153px;
+/* -webkit-transform: rotate(-90deg);
+  transform: rotate(-90deg);*/
+}
+.img1 {
+  background-image: url("1.jpg");
+  float: left;
+  margin: 50px 20px 40px 0px;
+  width: 200px;
+  height: 200px;
+  border-top-left-radius: 5%;
+  border-top-right-radius: 5%;
+  /*border-radius: 5%;*/
+}
+.img2 {
+  background-image: url("2.jpg");
+  float: left;
+  margin: 50px 20px 40px 20px;
+  width: 200px;
+  height: 200px;
+  border-top-left-radius: 5%;
+  border-top-right-radius: 5%;
+}
+.img3 {
+  background-image: url("3.jpg");
+    float: left;
+    margin: 50px 20px 40px 20px;
+    width: 200px;
+    height: 200px;
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+}
+.img4 {
+  background-image: url("4.jpg");
+    float: left;
+    margin: 0px 20px 20px 0px;
+    width: 200px;
+    height: 200px;
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+}
+.img5 {
+  background-image: url("5.jpg");
+    float: left;
+    margin: 0px 20px 20px 20px;
+    width: 200px;
+    height: 200px;
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+}
+.img6 {
+  background-image: url("6.jpg");
+    float: left;
+    margin: 0px 20px 20px 20px;
+    width: 200px;
+    height: 200px;
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+}
